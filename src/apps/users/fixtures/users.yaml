@@ -1,0 +1,6 @@
+- model: auth.user
+  fields:
+    username: Rayan
+    password: pbkdf2_sha256$600000$lRs7EAOMBErODHVKhxBNUH$RpjsgiFvzSVQ46v11euql8af+3riZU6bIctAeq1DhUM=
+    is_superuser: true
+    is_staff: true
